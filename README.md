@@ -9,4 +9,4 @@
 下线的功能（一端登录，另外一端T下线）</p>
 <p>3、判断用户是否登录，还是判断session里存的的用户id或者用户名称来实现</p>
 
-![image](https://github.com/jsy/loginOne/raw/master/demo.gif)
+![image](https://github.com/jsy135135/loginOne/raw/master/demo.gif)
